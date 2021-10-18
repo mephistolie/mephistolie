@@ -9,18 +9,9 @@
 * ⚙️ **Core Stack:** Kotlin/Java
 
 ## ✨ Projects
-### 📙 ChefBook: Recipe Book & Shopping List
+### 📙 [ChefBook: Recipe Book & Shopping List](https://github.com/mephistolie/chefbook)
 
 Your personal recipe book is always with you! Add and sort recipes, quickly send ingredients to the built-in shopping list and share any recipe with your friends via social networks and messengers.
-
-#### App features:
-* Adding, editing and deleting recipes
-* Search and sort recipes by categories, recently added, favorites
-* Advanced ordering of ingredients and cooking steps
-* Integrated Shopping List
-* Sending a recipe by text to your friends
-* Real-time synchronization between your devices
-* Support for dark mode 🌑
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mephistolie&repo=chefbook&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -38,19 +29,19 @@ Your personal recipe book is always with you! Add and sort recipes, quickly send
 ### Secondary Languages:
 <p align="left">
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://golang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/>
+    <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+    <a href="https://isocpp.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <a href="https://www.javascript.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
 </p>
 
 ### Tools:
 <p align="left">
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/xcode.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
+    <a href="https://developer.android.com/studio/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> </a>
+    <a href="https://developer.android.com/studio/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/xcode.png"/> </a>
+    <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
 </p>
 
 ## 📞 Contacts
