@@ -1,11 +1,31 @@
-<p align="left">
+<p align="center">
     <img src="https://github.com/mephistolie/mephistolie/blob/main/pictures/jrpg-character.png" width="128"/>
-    <h1 align="center">👨🏻‍💻 Mikhail Levin (@mephistolie)</h2>
+    <h1 align="center">Mikhail Levin (@mephistolie)</h2>
 </p>
 
+## 👨🏻‍💻 About
 * 📱 **Specialization:** Mobile Developer
 * 💼 **Work at:** NII SVA
 * ⚙️ **Core Stack:** Kotlin/Java
+
+## ✨ Projects
+### 📙 ChefBook: Recipe Book & Shopping List
+
+Your personal recipe book is always with you! Add and sort recipes, quickly send ingredients to the built-in shopping list and share any recipe with your friends via social networks and messengers.
+
+#### App features:
+* Adding, editing and deleting recipes
+* Search and sort recipes by categories, recently added, favorites
+* Advanced ordering of ingredients and cooking steps
+* Integrated Shopping List
+* Sending a recipe by text to your friends
+* Real-time synchronization between your devices
+* Support for dark mode 🌑
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mephistolie&repo=chefbook&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mephistolie&theme=nord&count_private=true&include_all_commits=true&show_icons=true&hide_title=true)
 
 ## 🛠️ Stack
 ### Primary Languages:
@@ -40,7 +60,3 @@
     <a href="https://twitter.com/mephistolie" target="_blank"> <img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png"/> </a>
     <a href="http://t.me/mephistolie" target="_blank"> <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/> </a>
 </p>
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mephistolie&theme=nord&count_private=true&include_all_commits=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mephistolie&theme=nord&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
