@@ -4,7 +4,31 @@
 * ⚙️ **Core Stack:** Kotlin/Java
 * 🔗 **Links:** [VK](https://vk.com/mephistolie) | [Instagram](https://www.instagram.com/mephistolie/) | [Telegram](http://t.me/mephistolie)
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />]
+## Stack
+### Primary Languages:
+<p align="left"> 
+    <a href="https://kotlinlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.apple.com/ru/swift/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/swift.png"/> </a>
+</p>
+
+### Secondary Languages:
+<p align="left">
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+</p>
+
+### Tools:
+<p align="left">
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/xcode.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
+</p>
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mephistolie&count_private=true&include_all_commits=true&show_icons=true&theme=nord)
