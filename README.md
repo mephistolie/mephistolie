@@ -1,8 +1,8 @@
 <p align="left">
     <img src="https://github.com/mephistolie/mephistolie/blob/main/pictures/jrpg-character.png" width="128"/>
+    <h1 align="center">👨🏻‍💻 Mikhail Levin (@mephistolie)</h2>
 </p>
 
-# 👨🏻‍💻 Mikhail Levin (@mephistolie)
 * 📱 **Specialization:** Mobile Developer
 * 💼 **Work at:** NII SVA
 * ⚙️ **Core Stack:** Kotlin/Java
@@ -42,5 +42,5 @@
 </p>
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mephistolie&count_private=true&include_all_commits=true&show_icons=true&theme=nord)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mephistolie&count_private=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mephistolie&theme=nord&count_private=true&include_all_commits=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mephistolie&theme=nord&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
