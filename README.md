@@ -1,19 +1,13 @@
-<p align="center">
+<p align="left">
     <img src="https://github.com/mephistolie/mephistolie/blob/main/pictures/jrpg-character.png" width="128"/>
 </p>
 
-# Mikhail Levin (@mephistolie)
-* 📱 **Mobile Developer**
+# 👨🏻‍💻 Mikhail Levin (@mephistolie)
+* 📱 **Specialization:** Mobile Developer
+* 💼 **Work at:** NII SVA
 * ⚙️ **Core Stack:** Kotlin/Java
 
-## Contacts
-<p align="left">
-    <a href="https://vk.com/mephistolie" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vk-com.png"/> </a>
-    <a href="https://www.instagram.com/mephistolie/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/> </a>
-    <a href="http://t.me/mephistolie" target="_blank"> <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/> </a>
-</p>
-
-## Stack
+## 🛠️ Stack
 ### Primary Languages:
 <p align="left"> 
     <a href="https://kotlinlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
@@ -37,6 +31,14 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/xcode.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
+</p>
+
+## 📞 Contacts
+<p align="left">
+    <a href="https://vk.com/mephistolie" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vk-com.png"/> </a>
+    <a href="https://www.instagram.com/mephistolie/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/> </a>
+    <a href="https://twitter.com/mephistolie" target="_blank"> <img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png"/> </a>
+    <a href="http://t.me/mephistolie" target="_blank"> <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/> </a>
 </p>
 
 ## 📊 GitHub Stats
