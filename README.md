@@ -1,8 +1,17 @@
-# 👨‍💻 Mikhail Levin (@mephistolie)
+<p align="center">
+    <img src="https://github.com/mephistolie/mephistolie/blob/main/pictures/jrpg-character.png" width="128"/>
+</p>
 
+# Mikhail Levin (@mephistolie)
 * 📱 **Mobile Developer**
 * ⚙️ **Core Stack:** Kotlin/Java
-* 🔗 **Links:** [VK](https://vk.com/mephistolie) | [Instagram](https://www.instagram.com/mephistolie/) | [Telegram](http://t.me/mephistolie)
+
+## Contacts
+<p align="left">
+    <a href="https://vk.com/mephistolie" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vk-com.png"/> </a>
+    <a href="https://www.instagram.com/mephistolie/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/> </a>
+    <a href="http://t.me/mephistolie" target="_blank"> <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/> </a>
+</p>
 
 ## Stack
 ### Primary Languages:
