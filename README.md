@@ -6,7 +6,7 @@
 ## 👨🏻‍💻 About
 * 📱 **Specialization:** Mobile Developer
 * 💼 **Work at:** NII SVA
-* ⚙️ **Core Stack:** Kotlin/Java
+* ⚙️ **Core Stack:** Kotlin/Java, RxKotlin, Kotlin Flow
 
 ## ✨ Projects
 ### 📙 [ChefBook: Recipe Book & Shopping List](https://github.com/mephistolie/chefbook)
