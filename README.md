@@ -28,8 +28,8 @@ Your personal recipe book is always with you! Add and sort recipes, quickly send
 
 ### Secondary Languages:
 <p align="left">
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://golang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
     <a href="https://isocpp.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
@@ -40,7 +40,8 @@ Your personal recipe book is always with you! Add and sort recipes, quickly send
 ### Tools:
 <p align="left">
     <a href="https://developer.android.com/studio/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> </a>
-    <a href="https://developer.android.com/studio/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/xcode.png"/> </a>
+    <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/xcode.png"/> </a>
+    <a href="https://www.jetbrains.com/ru-ru/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> </a>
     <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
 </p>
 
