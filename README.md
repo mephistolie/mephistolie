@@ -23,14 +23,14 @@ Your personal recipe book is always with you! Add and sort recipes, quickly send
 <p align="left"> 
     <a href="https://kotlinlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://golang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/>
     <a href="https://www.apple.com/ru/swift/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/swift.png"/> </a>
 </p>
 
 ### Secondary Languages:
 <p align="left">
-    <a href="https://golang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://isocpp.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/>
