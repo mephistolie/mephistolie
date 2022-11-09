@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 About
 * 📱 **Specialization:** Mobile Developer
-* 💼 **Work at:** [Touch Instinct](https://touchin.ru/)
+* 💼 **Work at:** [Yandex](https://ya.ru/)
 * ⚙️ **Core Stack:** Kotlin/Java, RxKotlin, Kotlin Flow
 
 ## ✨ Projects
