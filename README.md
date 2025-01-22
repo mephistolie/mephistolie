@@ -1,8 +1,3 @@
-<p align="center">
-    <img src="https://github.com/mephistolie/mephistolie/blob/main/pictures/jrpg-character.png" width="128"/>
-    <h1 align="center">Mikhail (@mephistolie)</h2>
-</p>
-
 ## 👨🏻‍💻 About
 * 📱 **Specialization:** Mobile Developer
 * 💼 **Work at:** [Yandex](https://ya.ru/)
